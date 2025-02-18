@@ -56,8 +56,8 @@ io.on('connection', (socket) => {
 
 const PORT = process.env.PORT;
 
-//app.use(cors());
-app.use(cors({ origin: 'http://127.0.0.1:5173' })); // Replace with your frontend URL
+app.use(cors());
+//app.use(cors({ origin: 'http://127.0.0.1:5173' })); // Replace with your frontend URL
 app.use(bodyParser.json());
 
 app.use("/api/auth", authRoute);
