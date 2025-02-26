@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This repository contains the backend of a functional booking platform for a cleaning service. The backend is built with Node.js and Express.js, providing a robust and scalable solution for managing user bookings, user authentication and other logic. MongoDB is used as the database to store and manage data.
 
-**RENDER URL --> https://cleanease-backend-780q.onrender.com**
+**RENDER URL --> (https://cleanease-backendnew.onrender.com)**
 
 ## 🧰 Tech Stack
 
